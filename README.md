@@ -5,7 +5,7 @@ Perfil criado para uso no Componente **Pensamento Computacional**
 
 Estou estudando:
 
-![Linguagem Java Script](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ; 
+Linguagem Java Script no [p5js](https://editor.p5js.org/)
 
 html e CSS;
 
