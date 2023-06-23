@@ -2,10 +2,14 @@
 
 
 Perfil criado para uso no Componente **Pensamento Computacional**
+Estou estudando: Linguagem Java Script; html e CSS;
 
 Estudando no Edutech [Alura](https://cursos.alura.com.br)
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1660012250407/z57JTYaXT.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm)
+### Você pode entrar em contato comigo 📫
+mauro.goncalves@escola.pr.gov.br 
+
+![](https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif)
 
 <!--
 **mrmssg/mrmssg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
