@@ -13,7 +13,7 @@ Modelagem e impressão em 3D;
 
 Estudando no Edutech [Alura](https://cursos.alura.com.br)
 
-Estudando no CillaTech Park;
+Estudando no [CillaTech Park] (https://ctp.org.br/) ;
 
 ### Você pode entrar em contato comigo 📫
 mauro.goncalves@escola.pr.gov.br 
