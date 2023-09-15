@@ -9,11 +9,13 @@ Linguagem Java Script no [p5js](https://editor.p5js.org/)
 
 html e CSS;
 
-Modelagem e impressão em 3D;
+
 
 Estudando no Edutech [Alura](https://cursos.alura.com.br)
 
-Estudando no [CillaTech Park] (https://ctp.org.br/) ;
+Modelagem e impressão em 3D;
+
+Estudando no [CillaTech Park](https://ctp.org.br/).
 
 ### Você pode entrar em contato comigo 📫
 mauro.goncalves@escola.pr.gov.br 
